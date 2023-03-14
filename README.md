@@ -1,4 +1,4 @@
-# **Kotlin App to extract data from json using these**
+# **Kotlin App to extract data from json using:**
 ### *RecyclerView and Fragments, Adapter*
 ### *View binding*
 ### *Serializable*
