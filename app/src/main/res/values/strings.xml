@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Индивидуальный учебный план</string>
+    <string name="enter_text">enter salary</string>
+    <string name="show_salary_detail">Show the salary detail</string>
+    <string name="oklad">Оклад</string>
+    <string name="opv">ОПВ</string>
+    <string name="ipn">ИПН</string>
+    <string name="oklad12">Оклад за год</string>
+    <string name="salarynaruku">Заработная плата в месяц</string>
+    <string name="salary12">Заработная плата за год </string>
+    <string name="tenge">%1$s ₸</string>
+    <string name="textfirst">Индивидуальный учебный план на</string>
+    <string name="text_second">Жарылгап Карашаш Алмаскызы</string>
+    <string name="valid_number">Please enter a valid number</string>
+    <string name="limit">Here is a limit, please enter salary until 1 000 000 000</string>
+    <string name="labarat">Лабарат.</string>
+    <string name="seminar">Семинар</string>
+    <string name="lecture">Лекция</string>
+    <string name="nameDis">Наименование дисциплины</string>
+    <string name="audit">Аудиторные занятия в часах</string>
+    <string name="semestr">"Семестр %1$s"</string>
+</resources>
