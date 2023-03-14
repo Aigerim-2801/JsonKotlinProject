@@ -8,6 +8,7 @@ import androidx.core.widget.doOnTextChanged
 import com.google.android.material.textfield.TextInputLayout
 import java.text.DecimalFormat
 
+//First app like tenge.work that displays salary on hand with ipn, oklad, opv when user entered salary with Limit by using DecimalFormat
 class KotlinActivity : AppCompatActivity() {
 
 
@@ -30,7 +31,7 @@ class KotlinActivity : AppCompatActivity() {
     @Override
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_task)
 
         okladTV  = findViewById(R.id.oklad)
         opvTV = findViewById(R.id.opv)
