@@ -6,4 +6,4 @@
 ### *Gradient for background*
 
 
-##### ***Another app like tenge.work that displays salary on hand with ipn, oklad, opv when user entered salary with Limit by using DecimalFormat***
+##### ***Another app like tenge.work that displays salary on hand with ipn, oklad, opv when user entered salary with Limit by using DecimalFormat its only in the KotlinActivity.kt and activity_task file***
