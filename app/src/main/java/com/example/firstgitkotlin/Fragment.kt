@@ -10,7 +10,7 @@ import com.example.firstgitkotlin.json.SemestersItem
 import java.io.Serializable
 
 
-class Fragment1 : Fragment(R.layout.fragment_layout) {
+class Fragment : Fragment(R.layout.fragment_layout) {
 
     private var _binding: FragmentLayoutBinding? = null
     private val binding get() = _binding!!
